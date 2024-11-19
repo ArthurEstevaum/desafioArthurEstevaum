@@ -3,6 +3,7 @@ Requisitos para rodar o projeto:
   - Docker (docker engine desktop) para manter um banco de dados em execução
   - arquivo .env na raiz do projeto contendo informações conforme .env.example deste repositório (pode apenas copiar para o arquivo .env)
 Etapas para executar o projeto:
+  - clonar este repositório para uma pasta
   - executar no terminal comando 'docker compose up -d' (no mesmo diretório do arquivo docker-compose.yml)
   -  executar no terminal comando 'npm i' (no diretório raiz do projeto, que contém o arquivo package.json)
   -  executar no terminal comando 'npx prisma migrate dev'
