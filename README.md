@@ -1,6 +1,6 @@
 Requisitos para rodar o projeto: 
   - Node js 22
-  - Docker (docker engine desktop) para manter um banco de dados em execução
+  - Docker (docker engine ou desktop) para manter um banco de dados em execução
   - arquivo .env na raiz do projeto contendo informações conforme .env.example deste repositório (pode apenas copiar para o arquivo .env)
 Etapas para executar o projeto:
   - clonar este repositório para uma pasta
